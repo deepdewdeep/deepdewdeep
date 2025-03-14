@@ -14,23 +14,32 @@ I'm a passionate developer who thrives on technology and continuous learning. He
 ---
 
 ## 🚀 Languages & Tools
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)  
-![Kaggle](https://img.shields.io/badge/-Kaggle-05122A?style=flat&logo=kaggle)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)  
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/-Kaggle-05122A?style=flat&logo=kaggle" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL" />
+</p>
 
 ---
 
 ## 🌍 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepdewdeep)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepdewdeep)
+<p align="left">
+  <a href="https://linkedin.com/in/deepdewdeep">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/deepdewdeep">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/deepdewdeep">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
