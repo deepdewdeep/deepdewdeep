@@ -30,7 +30,7 @@ I'm a passionate developer who thrives on technology and continuous learning. He
 
 ## 🌍 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/deepdewdeep">
+  <a href="[https://linkedin.com/in/deepdewdeep](https://www.linkedin.com/in/deependra-dewagiri-51b095148/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 <!--   <a href="https://twitter.com/deepdewdeep">
