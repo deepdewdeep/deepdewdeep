@@ -1,4 +1,4 @@
-# Hi there, I'm Deep Dewdeep! 👋
+# Hi there, I'm Deependra Dewagiri! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deepdewdeep&label=Profile%20views&color=0e75b6&style=flat)
 
