@@ -45,9 +45,11 @@ I'm a passionate developer who thrives on technology and continuous learning. He
 
 ## 📊 GitHub Stats
 
-![Deep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepdewdeep&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepdewdeep&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepdewdeep&show_icons=true&theme=radical" alt="Deep's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepdewdeep&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+</p>
 
 ---
 
-⭐️ **From** [Deep Dewdeep](https://github.com/deepdewdeep)
+⭐️ **From** [Deependra Dewagiri](https://github.com/deepdewdeep)
