@@ -33,9 +33,9 @@ I'm a passionate developer who thrives on technology and continuous learning. He
   <a href="https://linkedin.com/in/deepdewdeep">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/deepdewdeep">
+<!--   <a href="https://twitter.com/deepdewdeep">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  </a> -->
   <a href="https://github.com/deepdewdeep">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
