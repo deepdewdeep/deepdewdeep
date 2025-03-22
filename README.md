@@ -10,7 +10,7 @@ I'm a passionate developer who thrives on technology and continuous learning. He
 - 🌱 **Learning:** Diving deep into advanced **Machine Learning & AI** concepts.
 - 🤝 **Collaboration:** Always looking to team up on projects that make a difference.
 - 💬 **Expertise:** Ask me anything about **Machine Learning, Deep Learning, and Computer Vision**.
-- 📫 **Reach Out:** [deepdewdeep@gmail.com](mailto:deepdewdeep@gmail.com)
+- 📫 **Reach Out:** [deependradewa@ieee.com](mailto:deependradewa@ieee.com)
 - ⚡ **Fun Fact:** I love exploring new tech and building creative solutions.
 
 ---
