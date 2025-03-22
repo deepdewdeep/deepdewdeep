@@ -1,5 +1,7 @@
 # Hi there, I'm Deependra Dewagiri! 👋
 
+### Machine Learning Enthusiast | Problem Solver
+
 ![Profile Views](https://komarev.com/ghpvc/?username=deepdewdeep&label=Profile%20views&color=0e75b6&style=flat)
 
 I'm a passionate developer who thrives on technology and continuous learning. Here’s a quick snapshot about me:
@@ -46,8 +48,8 @@ I'm a passionate developer who thrives on technology and continuous learning. He
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepdewdeep&show_icons=true&theme=radical" alt="Deep's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepdewdeep&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deepdewdeep&show_icons=true&theme=default" alt="Deep's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepdewdeep&layout=compact&theme=default" alt="Top Languages" height="180px"/>
 </p>
 
 ---
